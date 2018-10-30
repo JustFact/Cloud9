@@ -1,3 +1,3 @@
 # README
 
-[Upskill](www.google.com)Software-as-a-Service Ruby on Rails App
+My First ever project as a web developer in Ruby on Rails Framework.
